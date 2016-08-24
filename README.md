@@ -6,7 +6,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/JuicyJuicy/nodejs-express-angular2-boilerplate.git
+git clone https://github.com/juicyspaghetti/nodejs-express-angular2-boilerplate.git
 
 cd nodejs-express-angular2-boilerplate
 
